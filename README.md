@@ -6,9 +6,9 @@
 
 -----------------------------------------------------------------------
 
-Proj2data.sql -- sample data for testing
-package_declaration.sql -- package declaration
-package_definition.sql -- package definition
+Proj2data.sql -- sample data for testing  
+package_declaration.sql -- package declaration  
+package_definition.sql -- package definition  
 
 ## For executing JAVA application:
 From inside the 'src' directory: (should have ojdbc6.jar)
